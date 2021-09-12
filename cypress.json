@@ -1,1 +1,6 @@
-{}
+{
+    "waitForAnimations": false,
+    "animationDistanceThreshold": 50,
+    "responseTimeout": 15000,
+    "force": true
+  }
